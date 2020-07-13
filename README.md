@@ -4,4 +4,4 @@
 =======
 >>>>>>> master
 #I am using a git gui to edit this!
-Hello!
+Hello!2
